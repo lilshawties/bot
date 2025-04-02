@@ -17,7 +17,7 @@ module.exports = {
   errorLog: "", 
   nodes: [
      {
-      name: "meow",
+      name: "GlaceYT",
       password: "061104",
       host: "192.99.10.133",
       port:  7037,
